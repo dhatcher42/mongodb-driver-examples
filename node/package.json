@@ -1,14 +1,14 @@
 {
-  "name": "simple",
+  "name": "node",
   "version": "1.0.0",
-  "description": "simple connect",
-  "main": "index.js",
+  "description": "",
+  "main": "simple.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mongodb": "^3.1.13"
+    "mongodb": "^3.2.7"
   }
 }
